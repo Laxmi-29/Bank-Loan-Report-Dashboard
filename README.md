@@ -1,1 +1,1 @@
-# Bank-Loan-Report-Dashboard
+This repository contains an interactive Excel dashboard designed to enhance a bank's risk assessment and financial analysis capabilities. It utilizes KPIs, Pivot Tables, Pivot Charts, and Power Query for advanced calculations, enabling dynamic data analysis and improved financial forecasts.
